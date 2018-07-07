@@ -51,7 +51,6 @@
     },
     {
       "label": "Texto para el botón \"Mostrar solución\"",
-=======
       "label": "Texto para el botón de \"Mostrar solución\"",
       "default": "Mostrar solución"
     },
